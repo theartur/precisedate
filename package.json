@@ -1,0 +1,28 @@
+{
+  "name": "precisedate",
+  "version": "1.0.0",
+  "description": "High-precision nanoseconds timestamps available for JavaScript.",
+  "main": "PreciseDate.js",
+  "scripts": {
+    "test": "node PreciseDate.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theartur/precisedate.git"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "precision",
+    "high-precision",
+    "nanoseconds",
+    "microseconds",
+    "javascript"
+  ],
+  "author": "jazzcript <jazzcript@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theartur/precisedate/issues"
+  },
+  "homepage": "https://github.com/theartur/precisedate#readme"
+}
