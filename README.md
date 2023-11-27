@@ -8,6 +8,7 @@
 - **High precision**: Utilizes high-resolution real time `BigInt` for nanosecond accuracy, ensuring precise time measurements.
 - **Browser and Node.JS**: From backend servers to browser-based applications, PreciseDate is universally applicable.
 - **Compatible with JS `Date` class**: Allow seamless integration into existing projects.
+- **Compatible with JSON**: Supports JSON serialization for easy data handling.
 - **No extra dependencies**: Fully standalone, requiring no additional libraries for functionality.
 
 ## Installation
